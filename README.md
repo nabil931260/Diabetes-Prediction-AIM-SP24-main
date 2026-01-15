@@ -19,5 +19,5 @@ Dataset Handling: Preprocessing for missing values, scaling, and imbalance corre
 | Framework     | Streamlit for web app, Scikit-learn for ML                               |
 | Models        | Random Forest, XGBoost, Logistic Regression, Ensembles pmc.ncbi.nlm.nih​  |
 | Visualization | SHAP for explainability, Matplotlib/Seaborn                              |
-| Data          | PIMA Indian Diabetes Dataset (pregnancies, glucose, BMI, etc.) github+1​  |
-| Deployment    | Local Streamlit run, potential Heroku/Streamlit Cloud                    |
+| Data          | PIMA Indian Diabetes Dataset (pregnancies, glucose, BMI, etc.)           |
+| Deployment    | Local Streamlit run                                                      |
